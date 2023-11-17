@@ -9,6 +9,8 @@ This Jupyter Notebook project leverages the power of OpenVINO™ and U²-Net to 
 
 ## Diagram View oF Model :
 https://excalidraw.com/#json=lFaRKR996j30qVJocqYv1,6fGVtl43EZKThoahfaKOvA
+![architectural diagram](https://github.com/autumn-absconds/Advanced-Vision/assets/65112908/c0a89bf2-fc16-4210-9082-2042cb31ec4a)
+
 
 ## Features
 
